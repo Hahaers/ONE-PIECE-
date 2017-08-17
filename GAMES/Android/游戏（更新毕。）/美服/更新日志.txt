@@ -1,0 +1,25 @@
+
+Ver5.1.2:
+Communication with the servers has become more secure.
+
+Version 6.0.1 Update
+
+- Added the following features: 
+ Super Evolve
+ Crewmate Ability
+ Stamina x2 = Rewards x2
+ Rayleigh's Bazaar
+
+- Improved the user interface of the Character Box.
+- Added a new feature which allows you to see the recommended level for each adventure.
+- Other minor bug fixes.
+
+Version 6.0.4 Update
+- Other minor bug fixes.
+
+Ver 7.0.0 Update Details
+-Added "Rookie Support Quests!"
+-Added "Requests from Chopper Man".
+-When Pirate Level increases, your Stamina can be filled beyond the maximum limit.
+-Added functions for new characters.
+-Other minor fixes.
